@@ -1,7 +1,3 @@
-# NAME: Cloudflare
-# DOMAIN-SUFFIX: 27
-# IP-CIDR: 21
-# TOTAL: 48
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
