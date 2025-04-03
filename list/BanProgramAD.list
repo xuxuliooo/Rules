@@ -389,12 +389,9 @@ DOMAIN-SUFFIX,zhuanfakong.com
 # ByteDance 头条抖音
 DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,dsp.toutiao.com
-DOMAIN-SUFFIX,ic.snssdk.com
-DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,nativeapp.toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,partner.toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sm.toutiao.com
