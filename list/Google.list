@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
-DOMAIN-SUFFIX,ai.ytimg.com
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -48,9 +47,6 @@ DOMAIN-SUFFIX,baselinestudy.com
 DOMAIN-SUFFIX,baselinestudy.org
 DOMAIN-SUFFIX,bazel.build
 DOMAIN-SUFFIX,bdn.dev
-DOMAIN-SUFFIX,beacons.gvt2.com
-DOMAIN-SUFFIX,beacons2.gvt2.com
-DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blog.google
@@ -220,7 +216,6 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,gateway.dev
-DOMAIN-SUFFIX,gcp.gvt2.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,get.app
@@ -614,10 +609,6 @@ DOMAIN-SUFFIX,quiksee.com
 DOMAIN-SUFFIX,recaptcha-cn.net
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,redhotlabs.com
-DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
-DOMAIN-SUFFIX,redirector.gvt1.com
-DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
-DOMAIN-SUFFIX,redirector.snap.gvt1.com
 DOMAIN-SUFFIX,registry.google
 DOMAIN-SUFFIX,revolv.com
 DOMAIN-SUFFIX,ridepenguin.com

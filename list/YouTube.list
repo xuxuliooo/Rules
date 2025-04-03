@@ -3,13 +3,10 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,video.google.com
-DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtube.ae
 DOMAIN-SUFFIX,youtube.al
 DOMAIN-SUFFIX,youtube.am
@@ -105,7 +102,6 @@ DOMAIN-SUFFIX,youtube.es
 DOMAIN-SUFFIX,youtube.fi
 DOMAIN-SUFFIX,youtube.fr
 DOMAIN-SUFFIX,youtube.ge
-DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
 DOMAIN-SUFFIX,youtube.hk
@@ -163,7 +159,6 @@ DOMAIN-SUFFIX,youtube.ug
 DOMAIN-SUFFIX,youtube.uy
 DOMAIN-SUFFIX,youtube.vn
 DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
 DOMAIN-SUFFIX,youtubefanfest.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubego.co.id
@@ -172,7 +167,6 @@ DOMAIN-SUFFIX,youtubego.com
 DOMAIN-SUFFIX,youtubego.com.br
 DOMAIN-SUFFIX,youtubego.id
 DOMAIN-SUFFIX,youtubego.in
-DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
