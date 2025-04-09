@@ -14,9 +14,7 @@ DOMAIN,video-vip-1258344701.shiply-cdn.qq.com
 DOMAIN,yoo.gtimg.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,qqvideo.gtimg.com
-DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
-DOMAIN-SUFFIX,video.qq.com
 IP-CIDR,58.49.111.117/32,no-resolve
 IP-CIDR,58.49.111.79/32,no-resolve
 IP-CIDR,58.49.111.95/32,no-resolve
