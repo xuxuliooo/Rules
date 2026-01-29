@@ -1,0 +1,33 @@
+# Specific domains
+DOMAIN,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN,api3.bybit.biz
+DOMAIN,www.bybits.org
+
+# Main domain suffixes
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+
+# Additional Bybit related domains
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.global
+DOMAIN-SUFFIX,bybit.co.kr
+DOMAIN-SUFFIX,bybit.com.br
+DOMAIN-SUFFIX,bybitapi.com
+DOMAIN-SUFFIX,bybit.net
+DOMAIN-SUFFIX,bybits.org
+
+# Third-party services used by Bybit
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,geetest.com
+
+# User-Agent rules for mobile app
+USER-AGENT,*Bybit*
+USER-AGENT,Bybit*
+
+# Process rules for mobile app (backup)
+PROCESS-NAME,com.bybit.app
+PROCESS-NAME,com.bybit.global
