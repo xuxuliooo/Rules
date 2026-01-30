@@ -31,3 +31,10 @@ USER-AGENT,Bybit*
 # Process rules for mobile app (backup)
 PROCESS-NAME,com.bybit.app
 PROCESS-NAME,com.bybit.global
+
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,byapp
+DOMAIN-KEYWORD,bya
+DOMAIN-KEYWORD,byb
+DOMAIN-KEYWORD,byc
+DOMAIN-KEYWORD,byd
