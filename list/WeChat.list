@@ -1,5 +1,4 @@
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
-DOMAIN,dldir1.qq.com
 DOMAIN,slife.xy-asia.com
 DOMAIN,soup.v.qq.com
 DOMAIN,vweixinf.tc.qq.com
@@ -7,17 +6,7 @@ DOMAIN,weixin110.qq.com
 DOMAIN,wup.imtt.qq.com
 DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,lbs.gtimg.com
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatlegal.net
 DOMAIN-SUFFIX,wechatos.net
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,wx.gtimg.com
 DOMAIN-KEYWORD,101.226.129.
 DOMAIN-KEYWORD,101.226.211.

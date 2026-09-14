@@ -1,36 +1,18 @@
-
-# talkatoneAdd commentMore actions
-#去广告
 DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,ads.inmobi.com
 DOMAIN-SUFFIX,adsappier.com
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,appiersig.com
 DOMAIN-SUFFIX,bidder.criteo.com
 DOMAIN-SUFFIX,cdn2.inner-active.mobi
 DOMAIN-SUFFIX,cr.adsappier.com
-DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,gum.criteo.com
 DOMAIN-SUFFIX,ow.pubmatic.com
-DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,sdk-dnt.ad.smaato.net
 DOMAIN-SUFFIX,sdk-events.inner-active.mobi
-DOMAIN-SUFFIX,smaato.net
-DOMAIN-SUFFIX,tappx.com
 DOMAIN-SUFFIX,wv.inner-active.mobi
-
-#直连
 DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,cohere.com
-# NAME: talkatone规则-DIRECT
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,talkatone.com
 IP-CIDR,205.164.56.0/24,no-resolve
 IP-CIDR,216.172.154.0/24,no-resolve

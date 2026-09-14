@@ -82,11 +82,8 @@ DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,ocsp.apple.com
 USER-AGENT,com.apple.trustd*
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -99,9 +96,6 @@ DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,carekit.org
 DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
 DOMAIN-SUFFIX,cups.org
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,devimages-cdn.apple.com
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com
 DOMAIN-SUFFIX,foundationdb.org
 DOMAIN-SUFFIX,macosforge.org
 DOMAIN-SUFFIX,macruby.com
@@ -208,7 +202,6 @@ DOMAIN-SUFFIX,appstore.my
 DOMAIN-SUFFIX,appstore.ph
 DOMAIN-SUFFIX,appstoreapple.cn
 DOMAIN-SUFFIX,asto.re
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,darwinsource.com
 DOMAIN-SUFFIX,darwinsource.org
 DOMAIN-SUFFIX,darwinsourcecode.com
@@ -523,8 +516,6 @@ DOMAIN-SUFFIX,simplyipod.com
 DOMAIN-SUFFIX,ukipad.com
 DOMAIN-SUFFIX,wwwipodlounge.com
 DOMAIN-SUFFIX,wwwmacbookair.com
-DOMAIN-SUFFIX,aod.itunes.apple.com
-DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,applemusic.co
@@ -543,7 +534,6 @@ DOMAIN-SUFFIX,appletv.wang
 DOMAIN-SUFFIX,appletv4.cn
 DOMAIN-SUFFIX,appletv4.com.cn
 DOMAIN-SUFFIX,appletvapp.apple
-DOMAIN-SUFFIX,audio.itunes.apple.com
 DOMAIN-SUFFIX,i-book.com
 DOMAIN-SUFFIX,i-book.net
 DOMAIN-SUFFIX,ibook.co.nz
@@ -560,13 +550,6 @@ DOMAIN-SUFFIX,iphoto.no
 DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,musickit.net
-DOMAIN-SUFFIX,mvod.itunes.apple.com
-DOMAIN-SUFFIX,news-assets.apple.com
-DOMAIN-SUFFIX,news-client.apple.com
-DOMAIN-SUFFIX,news-edge.apple.com
-DOMAIN-SUFFIX,news-events.apple.com
-DOMAIN-SUFFIX,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,wwwapplemusic.com
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com

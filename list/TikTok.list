@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -24,4 +23,3 @@ DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
-USER-AGENT,TikTok*

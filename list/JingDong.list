@@ -2,9 +2,7 @@ DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buy.cn
-DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buy.com.cn
-DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360buyinternational.com
 DOMAIN-SUFFIX,360top.com
 DOMAIN-SUFFIX,7fresh.com
@@ -105,7 +103,6 @@ DOMAIN-SUFFIX,jcloud-oss.com
 DOMAIN-SUFFIX,jcloud.com
 DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,jcloudcache.net
-DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jclouddn.com
 DOMAIN-SUFFIX,jclouddns.com
 DOMAIN-SUFFIX,jclouddns.net
@@ -140,9 +137,7 @@ DOMAIN-SUFFIX,jd-ex.com.cn
 DOMAIN-SUFFIX,jd-ex.net
 DOMAIN-SUFFIX,jd.cn
 DOMAIN-SUFFIX,jd.co.th
-DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.com.cn
-DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jd.id
 DOMAIN-SUFFIX,jd.ru
 DOMAIN-SUFFIX,jd.shop
@@ -158,7 +153,6 @@ DOMAIN-SUFFIX,jdcloud-livebuy.com
 DOMAIN-SUFFIX,jdcloud-mail.com
 DOMAIN-SUFFIX,jdcloud-openapi.com
 DOMAIN-SUFFIX,jdcloud-oss.com
-DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdcloudcache.com
 DOMAIN-SUFFIX,jdcloudcache.net
 DOMAIN-SUFFIX,jdcloudcdn.com
@@ -185,7 +179,6 @@ DOMAIN-SUFFIX,jdcloudwaf.com
 DOMAIN-SUFFIX,jdcontent.com
 DOMAIN-SUFFIX,jdd-global.com
 DOMAIN-SUFFIX,jddapeigou.com
-DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jddglobal.com
 DOMAIN-SUFFIX,jddtv.cn
 DOMAIN-SUFFIX,jddtv.com
@@ -201,7 +194,6 @@ DOMAIN-SUFFIX,jdl.cn
 DOMAIN-SUFFIX,jdl.com
 DOMAIN-SUFFIX,jdl.com.cn
 DOMAIN-SUFFIX,jdlike.cn
-DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jdpaydns.com
 DOMAIN-SUFFIX,jdsmartkf.com
 DOMAIN-SUFFIX,jdwl.com
@@ -222,7 +214,6 @@ DOMAIN-SUFFIX,minitiao.com
 DOMAIN-SUFFIX,missjia.net
 DOMAIN-SUFFIX,ocwms.com
 DOMAIN-SUFFIX,paidaojia.cn
-DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,prestodb-china.com
 DOMAIN-SUFFIX,prestodb.net.cn
 DOMAIN-SUFFIX,qianxun.com
@@ -239,9 +230,7 @@ DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,xianjiqun.com
 DOMAIN-SUFFIX,xjoycity.com
 DOMAIN-SUFFIX,yhcdn.cn
-DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yihaodian.com
-DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yihaomall.com
 DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com

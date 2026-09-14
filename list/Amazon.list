@@ -1,4 +1,3 @@
-# NAME: Amazon
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,aboutamazon.co.uk
@@ -99,7 +98,6 @@ DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
 DOMAIN-SUFFIX,audible.com
-DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,awsautopilot.com
@@ -190,7 +188,6 @@ DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN-SUFFIX,atv-ps.amazon.com
 DOMAIN-SUFFIX,fls-na.amazon.com
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.194.0.0/15,no-resolve

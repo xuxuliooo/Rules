@@ -45,7 +45,6 @@ DOMAIN-SUFFIX,baidupcs.cn
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidupcs.com.cn
 DOMAIN-SUFFIX,baidupcs.net
-DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baiduux.com
 DOMAIN-SUFFIX,baiduwaf.com
 DOMAIN-SUFFIX,baiduwebgame.com
@@ -121,9 +120,7 @@ DOMAIN-SUFFIX,dnsproxy.cn
 DOMAIN-SUFFIX,dnsproxy.com.cn
 DOMAIN-SUFFIX,du-xiaomai.com
 DOMAIN-SUFFIX,duapp-preview.com
-DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duapp.net
-DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,dulife.com
 DOMAIN-SUFFIX,dulightapp.com
 DOMAIN-SUFFIX,dumall.com
@@ -147,7 +144,6 @@ DOMAIN-SUFFIX,haluan2u.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123.net
 DOMAIN-SUFFIX,hao123img.com
-DOMAIN-SUFFIX,hao222.com
 DOMAIN-SUFFIX,hao222.net
 DOMAIN-SUFFIX,haokan.com
 DOMAIN-SUFFIX,hiapk.com
@@ -239,7 +235,6 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunjiasu-dns.com
 DOMAIN-SUFFIX,yunjiasu-dns.net
 DOMAIN-SUFFIX,yunjiasu-test.com
-DOMAIN-SUFFIX,yunjiasu.com
 DOMAIN-SUFFIX,yunjiasucdn.info
 DOMAIN-SUFFIX,yunjiasucdn.net
 DOMAIN-SUFFIX,yunjiasudns.com
