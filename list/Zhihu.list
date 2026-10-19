@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 IP-CIDR,103.41.167.226/32,no-resolve
 IP-CIDR,103.41.167.234/31,no-resolve
 IP-CIDR,103.41.167.236/32,no-resolve

@@ -1,11 +1,13 @@
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.com.au
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -27,10 +29,13 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,us-west-2.amazonaws.com
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,netflixdnstest
+USER-AGENT,Argo*
 IP-CIDR,103.87.204.0/22,no-resolve
 IP-CIDR,107.23.255.0/26,no-resolve
 IP-CIDR,108.128.160.0/23,no-resolve
@@ -524,6 +529,7 @@ IP-CIDR,203.116.0.0/16,no-resolve
 IP-CIDR,203.198.0.0/20,no-resolve
 IP-CIDR,203.198.80.0/21,no-resolve
 IP-CIDR,203.75.84.0/24,no-resolve
+IP-CIDR,203.83.220.0/22,no-resolve
 IP-CIDR,204.246.166.0/24,no-resolve
 IP-CIDR,205.251.218.0/24,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
@@ -534,6 +540,10 @@ IP-CIDR,219.76.0.0/17,no-resolve
 IP-CIDR,23.23.189.144/28,no-resolve
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,23.78.0.0/16,no-resolve
+IP-CIDR,2607:fb10::/32,no-resolve
+IP-CIDR,2620:10c:7000::/44,no-resolve
+IP-CIDR,2a00:86c0::/32,no-resolve
+IP-CIDR,2a03:5640::/32,no-resolve
 IP-CIDR,3.0.5.224/27,no-resolve
 IP-CIDR,3.0.5.32/29,no-resolve
 IP-CIDR,3.10.127.32/27,no-resolve
@@ -1033,6 +1043,7 @@ IP-CIDR,52.23.61.0/24,no-resolve
 IP-CIDR,52.23.62.0/24,no-resolve
 IP-CIDR,52.24.0.0/14,no-resolve
 IP-CIDR,52.32.0.0/14,no-resolve
+IP-CIDR,52.40.0.0/14,no-resolve
 IP-CIDR,52.46.0.0/22,no-resolve
 IP-CIDR,52.46.16.0/20,no-resolve
 IP-CIDR,52.46.32.0/19,no-resolve
@@ -1144,9 +1155,3 @@ IP-CIDR,99.79.20.192/26,no-resolve
 IP-CIDR,99.80.34.48/28,no-resolve
 IP-CIDR,99.80.34.64/26,no-resolve
 IP-CIDR,99.80.88.0/25,no-resolve
-IP-CIDR6,2607:fb10::/32,no-resolve
-IP-CIDR6,2620:10c:7000::/44,no-resolve
-IP-CIDR6,2a00:86c0::/32,no-resolve
-IP-CIDR6,2a03:5640::/32,no-resolve
-USER-AGENT,Argo*
-PROCESS-NAME,com.netflix.mediaclient

@@ -180,10 +180,12 @@ DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,explorebing.com
+DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,fluidpreview.com
+DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
@@ -201,6 +203,7 @@ DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,groupme.com
 DOMAIN-SUFFIX,hdinsightservices.cn
+DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,heremaps.cn
@@ -240,6 +243,7 @@ DOMAIN-SUFFIX,live.eu
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
 DOMAIN-SUFFIX,livingyourambition.com
+DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,lync.cn
 DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,m12.vc
@@ -402,6 +406,7 @@ DOMAIN-SUFFIX,mpnevolution.com
 DOMAIN-SUFFIX,ms-studiosmedia.com
 DOMAIN-SUFFIX,ms365surfaceoffer.com
 DOMAIN-SUFFIX,msa.akadns6.net
+DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msappproxy.cn
 DOMAIN-SUFFIX,msappproxy.net
 DOMAIN-SUFFIX,msauth.cn
@@ -421,6 +426,7 @@ DOMAIN-SUFFIX,msftauthimages.cn
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftcenterone.cn
 DOMAIN-SUFFIX,msftcloudes.cn
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,msftnet.org
@@ -499,6 +505,7 @@ DOMAIN-SUFFIX,onmicrosoft.com
 DOMAIN-SUFFIX,onmschina.cn
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,opticsforthecloud.net
+DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,osdinfra.net
 DOMAIN-SUFFIX,outingsapp.com
@@ -555,6 +562,8 @@ DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,staffhub.ms
 DOMAIN-SUFFIX,start.com
 DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
+DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,surface.com
@@ -578,6 +587,7 @@ DOMAIN-SUFFIX,tryfunctions.com
 DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,userpxt.io
+DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
@@ -647,6 +657,7 @@ DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
@@ -658,5 +669,3 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
